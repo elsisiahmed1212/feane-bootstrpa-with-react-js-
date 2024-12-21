@@ -1,0 +1,28 @@
+
+.but:hover{
+    background-color: #E69C00 !important; /* Hover color */
+    color: white;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+.navbar {
+    transition: background-color 0.3s ease-in-out;
+  }
+  .navbar-nav .nav-link {
+    color: rgb(255, 255, 255) !important;
+  }
+  .nav-link.active {
+    color: #ffc107 !important; /* Highlight active link */
+  }
+  
+  .nav-link:hover {
+    color: #ffd54f;
+  }
+  
+  .buttonens .btn {
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  

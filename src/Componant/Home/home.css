@@ -1,0 +1,27 @@
+.carousel-indicators [data-bs-target]{
+    width:  16px !important;
+    height: 16px !important;
+    border-radius: 50% ;
+    background-color:#E69C00 !important;
+}
+.box img , img{
+    transition: all 0.5s;
+}
+.box:hover img{
+    transform: scale(1.1);
+}   
+
+.rounded-start-bottom-5{
+    border-bottom-left-radius: 15%;
+}
+
+.proudact:hover img{
+    transform: scale(1.1);
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: white !important;
+    background-color: black !important;
+}
+.nav-link {
+    color: #535353 !important;
+}
